@@ -1,0 +1,43 @@
+If you will. follow these steps and add your custom bases to the proper places/files before you swap them out.
+
+1. on your pc create a new folder called "Server Back Up".
+2. download your "mpmissions" folder in nitrado to "Server Back Up" folder on your desktop.
+3. download these files listed below from my GitHub link.
+----------------------------------------------------
+-Files to Download- that goes in the "dayzOffline.chernarusplus/db" folder in Nitrado
+1. events.xml {re-add your custome bases before implimenting it}
+2. globals.xml
+3. types.xml
+4. messages.xml     {please change the welcome message and discord link in this file to yours}
+-----------------------------------------------------
+-files to download that goes in the "dayzOffline.chernarusplus" folder in Nitrado
+1. cfgeventgroups.xml
+2. cfgeventspawns.xml 
+3. cfggameplay.json {edit this file to change "spawnGearPresetFiles": ["custom/MilitaryFreshSpawn1.json"] to 
+"spawnGearPresetFiles": ["custom/Freshie.json"] }
+4. cfgplayerspawnpoints.xml
+5. cfgrandompresets.xml
+6. cfgspawnabletypes.xml
+7. cfgweather.xml
+----------------------------------------------------
+-Files to Download- that goes in the "dayzOffline.chernarusplus/custom" folder in Nitrado
+1. Freshie.json
+-----------------------------------------------------
+GitHub for the files: https://github.com/D3MONICyt/DayZ-1.27-Modified
+
+- Server Loot Spawns Raised to relieve the DayZ Official Server Feel.
+- Added Boat Spawns into Cherno
+- Fixed Player Spawns to be how the game intended (While allowing a NWAF spawn for pvp only players)
+- Zombies will respawn every 15 minutes
+- Zombies will have better Food/Drink loot probability 
+- Military Backpacks spawn with gear 
+- Trucks spawn with building supplies 
+- Humvees Spawn with BDUs, Food, and Drink
+- 4 Toxic zones that respawn every 30 minutes that last for 29 minutes
+- Moderate zombie spawns that will feel like its a zombie appocolipse 
+- Med Kits spawn with Saline, Bandage, and IV Start Kit
+- Stamina was Increased along side making less drain with Jumping, Running, Climbing, and Swimming
+- Takes less time to sprint and stop sprinting
+
+
+
