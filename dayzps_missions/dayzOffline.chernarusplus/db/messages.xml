@@ -4,13 +4,13 @@
     <message>
         <delay>0</delay>
         <onconnect>1</onconnect>
-        <text>Welcome Ragnarok Test Server</text>
+        <text>Your Server Name</text>
     </message>
     <message>
 	    <message>
         <delay>20</delay>
         <onconnect>1</onconnect>
-        <text>Discord Link: discord.gg/snbNXNYSHr </text>
+        <text>Discord Link: discord.gg/YourLink </text>
     </message>	
     <message>
 	    <message>
