@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+</messages>
+    <message>
+        <delay>0</delay>
+        <onconnect>1</onconnect>
+        <text>Welcome Ragnarok Test Server</text>
+    </message>
+    <message>
+	    <message>
+        <delay>20</delay>
+        <onconnect>1</onconnect>
+        <text>Discord Link: discord.gg/snbNXNYSHr </text>
+    </message>	
+    <message>
+	    <message>
+        <delay>5</delay>
+        <onconnect>1</onconnect>
+        <text>Server Restarts (NOT Resets/Wipes) every 3 hours </text>
+    </message>
+    <message>
+	    <message>
+        <delay>7200</delay>
+        <onconnect>1</onconnect>
+        <text>Server Restarts in 1 hour </text>
+    </message>
+    <message>
+	    <message>
+        <delay>3600</delay>
+        <onconnect>1</onconnect>
+        <text>Server Restarts in 2 Hours </text>
+    </message>
+    <message>
+	    <message>
+        <delay>9000</delay>
+        <onconnect>1</onconnect>
+        <text>Server Restarts in 30 Minutes </text>
+    </message>
+    <message>
+	    <message>
+        <delay>10440</delay>
+        <onconnect>1</onconnect>
+        <text>Server Restarts in 10 Minutes </text>
+    </message>
